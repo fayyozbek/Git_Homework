@@ -25,4 +25,8 @@
 ![img_15.png](img_15.png)
 ![img_16.png](img_16.png)
 ![img_17.png](img_17.png)
-- 
+- Pull Request: Create a merge commit
+![img_18.png](img_18.png)
+![img_19.png](img_19.png)
+- Pull Request: Squash and merge
+
