@@ -13,4 +13,10 @@
 ![img_7.png](img_7.png)
 - Change Author
 ![img_8.png](img_8.png)
-- 
+- Reset branch to commit
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
+- Squash Commit's
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+-  Rebase 
