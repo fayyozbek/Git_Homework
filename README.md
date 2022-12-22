@@ -31,5 +31,10 @@
 - Pull Request: Squash and merge
 ![img_22.png](img_22.png)
 ![img_23.png](img_23.png)
-- 
+- Manage Remotes
+![img_24.png](img_24.png)
+![img_25.png](img_25.png)
+![img_26.png](img_26.png)
+![img_27.png](img_27.png)
+-  Merge Conflict
 
