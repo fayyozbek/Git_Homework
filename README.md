@@ -42,5 +42,7 @@
 ![img_30.png](img_30.png)
 - Edit Сommit(Push)
 ![img_31.png](img_31.png)
-
+- Squash Сommit(Push)
+![img_32.png](img_32.png)
+![img_33.png](img_33.png)
 
