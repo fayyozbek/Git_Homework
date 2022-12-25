@@ -1,0 +1,6 @@
+Do any changes to the file, create a new commit with message 'Push commit 1'. Repeat this step 3 times.
+ 
+Do any changes to the file, create a new commit with message 'Push commit 1'. Repeat this step 3 times.
+ 
+Do any changes to the file, create a new commit with message 'Push commit 1'. Repeat this step 3 times.
+ 
